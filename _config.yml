@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Francesco Zappia."
 email: 'fzappiaa@gmail.com'
-description: "I'm a software engineer and data analyst from Italy with a great passion for data science and coding."
+description: "I'm a computer engineer and data analyst from Italy with a great passion for coding and data science."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fzappiaa.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
@@ -99,4 +99,4 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  # - { url: '/about', text: 'About' }
