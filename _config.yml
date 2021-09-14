@@ -17,7 +17,7 @@ title: "Hello. I'm Francesco Zappia."
 email: 'fzappiaa@gmail.com'
 description: "I'm a computer engineer and data analyst from Italy with a great passion for coding and data science."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fzappiaa.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://fzappiaa.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 linkedin_username: 'francesco-zappia-84137716b'
 github_username: 'morpheusthewhite'
