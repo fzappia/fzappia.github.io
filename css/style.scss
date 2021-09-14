@@ -351,6 +351,12 @@ code {
 code {
   padding: 1px 5px; }
 
+// center images of post
+.post-row {
+    align-items: center;
+    display: flex;
+}
+
 pre {
   padding: 8px 12px;
   overflow-x: auto; }
